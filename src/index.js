@@ -4,7 +4,7 @@ import { IntlProvider } from 'react-intl';
 import { ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import { theme } from 'styles/theme';
-import App from './App';
+import App from './components/app/App';
 import { messages, appLang } from './translations';
 
 ReactDOM.render(

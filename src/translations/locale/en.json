@@ -1,4 +1,13 @@
 {
     "app.start": "Start",
-    "login.test": "Test"
+
+    "copyrights.text": "© 2021 :iTechArt All Rights Reserved.",
+
+    "login.btn.login": "Log In",
+    "login.inputs.title": " / BS",
+    "login.password.required": "The Password field is required.",
+    "login.login.required": "The Login field is required.",
+
+    "page.login.title": "Login",
+    "page.login.text": "Log In with your corporate account to access internal applications and services"
 }
