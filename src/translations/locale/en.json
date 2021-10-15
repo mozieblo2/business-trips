@@ -1,3 +1,4 @@
 {
-    "app.start": "Start"
+    "app.start": "Start",
+    "login.test": "Test"
 }
